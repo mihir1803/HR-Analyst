@@ -1,5 +1,5 @@
 HR Analyst: Present Insight Dashboard
-This Power BI dashboard visualizes key metrics related to employee attendance, WFH (Work From Home) trends, and SL (Sick Leave) data for April, May, and June 2022. The dashboard is divided into the following sections:
+This Power BI dashboard visualizes key metrics related to employee attendance, WFH (Work From Home) trends, and SL (Sick Leave) data for April, May, and June 2022. The dashboard is divided into the following sections::
 
 **High-Level KPIs:**
 
