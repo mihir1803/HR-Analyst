@@ -8,14 +8,14 @@ This Power BI dashboard visualizes key metrics related to employee attendance, W
 **SL %:** The percentage of employees on sick leave (0.46% for April 2022).
 **Employee Attendance Table:** A detailed table showing individual employee presence, WFH, and SL percentages. This table allows tracking of each employee's participation and WFH patterns.
 
-Presence by Date: A line graph visualizing the daily percentage of employees physically present in the office, including a trendline to show how the overall presence has fluctuated over time.
+**Presence by Date:** A line graph visualizing the daily percentage of employees physically present in the office, including a trendline to show how the overall presence has fluctuated over time.
 
-WFH by Date: A similar line graph that tracks the percentage of employees working from home across the selected dates, highlighting changes and trends.
+**WFH by Date:** A similar line graph that tracks the percentage of employees working from home across the selected dates, highlighting changes and trends.
 
-SL by Date: A chart representing sick leave percentage over the period, helping to identify any spikes or patterns in employee absenteeism due to sickness.
+**SL by Date:** A chart representing sick leave percentage over the period, helping to identify any spikes or patterns in employee absenteeism due to sickness.
 
 Day of Week Breakdown:
 
-Presence % by Day: A breakdown of employee presence by day of the week, showing how certain days (e.g., Monday or Friday) compare in terms of attendance.
-WFH % by Day: A similar breakdown for WFH, indicating the days with the highest work-from-home percentages.
-SL % by Day: A breakdown of sick leave by day of the week, highlighting potential patterns in absenteeism.
+**Presence % by Day:** A breakdown of employee presence by day of the week, showing how certain days (e.g., Monday or Friday) compare in terms of attendance.
+**WFH % by Day:** A similar breakdown for WFH, indicating the days with the highest work-from-home percentages.
+**SL % by Day:** A breakdown of sick leave by day of the week, highlighting potential patterns in absenteeism.
